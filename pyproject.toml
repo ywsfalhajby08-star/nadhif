@@ -9,7 +9,7 @@ description = "A simple library for cleaning and normalizing Arabic text."
 readme = "README.md"
 requires-python = ">=3.8"
 license = { text = "MIT" }
-authors = [{ name = "nadhif contributors" }]
+authors = [{ name = "ywsfalhajby08-star" }]
 keywords = ["arabic", "nlp", "text", "normalization", "tashkeel"]
 classifiers = [
     "Programming Language :: Python :: 3",
